@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VUMCM1mkheQAWPRjiHSqj05Rnv33icaQ68wv2MactxY=",
+  "Source": "KargoSecimAPI",
+  "BasePath": "_content/KargoSecimAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
