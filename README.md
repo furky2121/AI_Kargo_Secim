@@ -1,3 +1,18 @@
+# T.C.
+# SAKARYA ÜNİVERSİTESİ
+# FEN BİLİMLERİ ENSTİTÜSÜ
+# BİLGİSAYAR VE BİLİŞİM MÜHENDİSLİĞİ ANABİLİM DALI
+# BİLİŞİM TEKNOLOJİLERİ PR. (YL) (UZAKTAN EĞİTİM)	
+
+# YAPAY ZEKA DESTEKLİ LOJİSTİK DAĞITIM SİSTEMİ
+
+# Hazırlayan: FURKAN ASLAN
+# Öğrenci Numarası: E245013004
+
+# Danışman: Prof. Dr. Nilüfer YURTAY
+
+# SAKARYA, 2025
+
 # Kargo Seçim Sistemi
 
 Bu proje, siparişler için en uygun kargo firmasını seçen bir web uygulamasıdır. Müşteri önceliklerine göre (hız, memnuniyet, güvenlik, fiyat) otomatik kargo seçimi yapılır.
