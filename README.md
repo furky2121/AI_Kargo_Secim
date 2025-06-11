@@ -1,17 +1,17 @@
-# T.C.
-# SAKARYA ÜNİVERSİTESİ
-# FEN BİLİMLERİ ENSTİTÜSÜ
-# BİLGİSAYAR VE BİLİŞİM MÜHENDİSLİĞİ ANABİLİM DALI
-# BİLİŞİM TEKNOLOJİLERİ PR. (YL) (UZAKTAN EĞİTİM)	
+### T.C.
+### SAKARYA ÜNİVERSİTESİ
+### FEN BİLİMLERİ ENSTİTÜSÜ
+### BİLGİSAYAR VE BİLİŞİM MÜHENDİSLİĞİ ANABİLİM DALI
+### BİLİŞİM TEKNOLOJİLERİ PR. (YL) (UZAKTAN EĞİTİM)	
 
-# YAPAY ZEKA DESTEKLİ LOJİSTİK DAĞITIM SİSTEMİ
+### YAPAY ZEKA DESTEKLİ LOJİSTİK DAĞITIM SİSTEMİ
 
-# Hazırlayan: FURKAN ASLAN
-# Öğrenci Numarası: E245013004
+### Hazırlayan: FURKAN ASLAN
+### Öğrenci Numarası: E245013004
 
-# Danışman: Prof. Dr. Nilüfer YURTAY
+### Danışman: Prof. Dr. Nilüfer YURTAY
 
-# SAKARYA, 2025
+### SAKARYA, 2025
 
 # Kargo Seçim Sistemi
 
